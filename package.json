@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/Daniil161russ/movielib#readme",
   "devDependencies": {
+    "@types/express": "^4.17.14",
     "@types/node": "^18.11.11",
+    "@types/webtorrent": "^0.109.3",
     "dotenv": "^16.0.3",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
